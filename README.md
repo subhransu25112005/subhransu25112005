@@ -81,9 +81,6 @@ I strongly believe in **learning by building**, and I actively:
 ## 🎯 Career Goal
 
 To become a highly skilled **AI Engineer specializing in Intelligent Systems & SpaceTech**, capable of contributing to:
-
-- DRDO 🛡️  
-- ISRO 🚀  
 - Advanced research labs & deep-tech companies  
 
 ---
