@@ -1,6 +1,94 @@
 # 💫 About Me:
-🚀 **About Me**<br><br>Hi, I'm **Subhranshu**, a B.Tech CSE student passionate about building real-world tech solutions and continuously improving my development skills.<br><br>💻 I’m an aspiring **Backend Developer** with experience in creating **full-stack projects**, focusing on clean architecture, APIs, and practical implementations.<br><br>🧠 My core interests include **Artificial Intelligence, Machine Learning, and Backend Engineering**, and I enjoy exploring how intelligent systems can solve real problems.<br><br>🛰️ I’m also a **SpaceTech enthusiast**, highly interested in technology related to space innovation, simulations, and future space-focused software projects. I aim to work on impactful SpaceTech-related applications as my skills grow.<br><br>🌱 Currently, I’m strengthening my foundation in:<br><br>* **Data Structures & Algorithms (Java)**<br>* **Python & C Programming**<br>* **FastAPI & backend development**<br>* **Database integration & real-world project building**<br>* **Git/GitHub professional workflows**<br><br>🏆 I actively participate in **hackathons and collaborative student projects**, where I’ve contributed to project development, problem solving, and practical implementation under time constraints.<br><br>🛠️ I enjoy:<br><br>* Turning ideas into working software<br>* Building backend systems and APIs<br>* Learning new technologies through projects<br>* Collaborating on innovative student tech initiatives<br><br>🎯 My goal is to become a **skilled software developer** capable of building scalable backend systems, intelligent applications, and eventually contributing to **AI-driven and SpaceTech-focused projects**.<br><br>⚡ *I believe consistency, curiosity, and building real projects are the fastest way to grow as a developer.*
 
+🚀 Hi, I'm **Subhranshu**, a B.Tech CSE student passionate about building real-world tech solutions and continuously evolving into a **high-impact AI Engineer**.
+
+💻 I’m an aspiring **Backend Developer** with hands-on experience in building **full-stack and API-driven systems**, focusing on clean architecture, scalability, and practical implementations.
+
+🧠 My core interests lie in **Artificial Intelligence, Machine Learning, Backend Engineering, and Smart Intelligence Systems**, where I explore how intelligent systems can solve real-world problems through automation and decision-making.
+
+🛰️ I’m also a **SpaceTech enthusiast**, deeply interested in technologies related to space innovation, simulations, and intelligent systems aligned with **DRDO/ISRO-level applications**.
+
+---
+
+## 🚀 Current Focus & Direction
+
+I am actively aligning my journey towards building **AI-powered Smart Intelligence Systems** with applications in:
+
+- SpaceTech 🚀  
+- Defense & Surveillance Systems 🛡️  
+- Autonomous & Decision-Making Systems 🤖  
+
+My goal is not just to learn AI/ML, but to **build real-world intelligent systems**.
+
+---
+
+## 🧠 Learning & Skill Development
+
+🔹 Strengthening core foundations:
+- **Data Structures & Algorithms (Java)**
+- **Python & C Programming**
+
+🔹 Advancing in AI/ML:
+- Machine Learning & Deep Learning  
+- Feature Engineering & Model Evaluation  
+- Computer Vision (CNN, Image Processing)  
+- Transformers & Intelligent Systems  
+
+🔹 Backend & Systems:
+- FastAPI & scalable backend architecture  
+- REST APIs & system design basics  
+- Database integration (SQL/NoSQL)  
+
+🔹 Advanced stack:
+- MLOps (deployment, monitoring, CI/CD for ML)  
+- Cloud Computing (AWS/GCP basics)  
+- GPU-based model training  
+
+---
+
+## 🛰️ SpaceTech + AI Vision
+
+I am actively working towards applying AI in:
+
+- Satellite image processing & remote sensing  
+- Land-use classification & disaster detection  
+- Crop monitoring using AI  
+- Autonomous navigation systems  
+
+---
+
+## 🤖 Smart Intelligence System Vision
+
+I aim to build advanced systems such as:
+
+- AI-based surveillance & monitoring systems  
+- Intelligent drones / autonomous systems  
+- Real-time predictive intelligence platforms  
+
+---
+
+## ⚙️ Hands-on Approach
+
+I strongly believe in **learning by building**, and I actively:
+
+- Build end-to-end AI + backend integrated projects  
+- Participate in hackathons & collaborative development  
+- Work on real-world problem-solving systems  
+- Contribute to practical and scalable implementations  
+
+---
+
+## 🎯 Career Goal
+
+To become a highly skilled **AI Engineer specializing in Intelligent Systems & SpaceTech**, capable of contributing to:
+
+- DRDO 🛡️  
+- ISRO 🚀  
+- Advanced research labs & deep-tech companies  
+
+---
+
+🔥 *I believe consistency, curiosity, and building real projects are the fastest way to grow as a developer.*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranshunanda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Subhransu:)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhrX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhransu25112005@gmail.com) 
